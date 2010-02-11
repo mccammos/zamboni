@@ -6,13 +6,5 @@
             "strict": "1.23",
             "loose": "junk"
         }
-    },
-    {
-        "pk": 2,
-        "model": "fieldtestapp.decimalcharfieldmodel",
-        "fields": {
-            "strict": "junk",
-            "loose": null
-        }
     }
 ]
